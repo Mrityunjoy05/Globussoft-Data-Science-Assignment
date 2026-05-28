@@ -91,11 +91,6 @@ Image 2 ──► Face Detection ──► ArcFace Embedding (512-d)
 cd task2
 python train.py
 ```
-
-Downloads the pretrained model on first run (~1.7 GB) and saves `model/config.json`.
-
-```
-
 ---
 
 ### Step 2 — Test prediction from terminal
