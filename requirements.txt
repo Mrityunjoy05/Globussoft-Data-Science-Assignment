@@ -1,0 +1,12 @@
+#Task 1
+beautifulsoup4
+lxml
+pandas
+requests
+
+# Task 2
+fastapi[standard]
+insightface
+onnxruntime
+opencv-python-headless
+scikit-learn

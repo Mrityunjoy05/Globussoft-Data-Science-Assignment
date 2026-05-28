@@ -1,0 +1,25 @@
+# --- Core Python Garbage ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- Virtual Environments ---
+.venv/
+venv/
+env/
+
+# --- UV (Package Manager) ---
+.uv/
+
+# --- InsightFace Model Weights ---
+model/
+
+
+# --- IDE ---
+.vscode/
+.idea/
+
+# --- OS ---
+.DS_Store
+Thumbs.db
